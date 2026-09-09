@@ -1,0 +1,7 @@
+# Completion support
+zsh-users/zsh-completions
+Aloxaf/fzf-tab
+
+# Interactive shell features
+zsh-users/zsh-autosuggestions
+zsh-users/zsh-syntax-highlighting
