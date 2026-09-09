@@ -2,6 +2,9 @@
 zsh-users/zsh-completions
 Aloxaf/fzf-tab
 
+# Git workflow aliases (loaded through Antidote, without the OMZ framework)
+ohmyzsh/ohmyzsh path:plugins/git
+
 # Interactive shell features
 zsh-users/zsh-autosuggestions
 zsh-users/zsh-syntax-highlighting
